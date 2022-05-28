@@ -15,6 +15,6 @@
   ![Diagrama Propuesto en AWS - AIK](https://user-images.githubusercontent.com/47835629/170802453-a9ce3432-3a69-40b8-a03e-0e34d9bedd14.png)
 
 
-## Primera Fase: Codificación
+## Segunda Fase: Codificación
   
   
