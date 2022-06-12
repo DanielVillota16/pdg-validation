@@ -22,7 +22,7 @@ Los elementos actuales le han permitido a la empresa poder hostear una aplicaci�
 
 Teniendo en cuenta los nuevos requerimientos del problema en tanto a disponibilidad y escalabilidad, se propone re-estructurar la infraestructura actual para un despliegue en la nube. Después de un proceso de diseño se llegó al siguiente modelo de infraestructura: 
 
-![Diagrama Propuesto en AWS - AIK](https://user-images.githubusercontent.com/47835629/170802453-a9ce3432-3a69-40b8-a03e-0e34d9bedd14.png)
+![image](https://user-images.githubusercontent.com/47835629/173213112-22f2270b-ebc3-4afe-8c74-536a87132a19.png)
 
 ## Segunda Fase: Codificación
 
